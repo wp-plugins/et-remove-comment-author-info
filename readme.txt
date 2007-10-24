@@ -1,0 +1,25 @@
+=== ET Remove Comment Author Info ===
+Contributors: milanmk
+Donate link: http://efficienttips.com/contact/
+Tags: comment, author, comment form
+Requires at least: 1.5
+Tested up to: 2.3
+Stable tag: trunk
+
+A WordPress plugin to remove comment author details from the comment form.
+
+== Description ==
+
+This plugin will insert a link in the comment form that will allow the comment author to delete their personal info from the comment form. Only unregistered users will be provided with the delete link if they already had a previously posted comment.
+
+== Installation ==
+
+1. Download the zip archive and extract the folder/files.
+2. Upload the extracted folder/files to your WordPress plugins directory (/wp-content/plugins/).
+3. From Administration Panels go to Plugins and click "Activate" for "ET Remove Comment Author Info" plugin.
+
+== Frequently Asked Questions ==
+
+= I cant see the delete link =
+
+Only unregistered users will be provided with the delete link if they already had a previously posted comment.
