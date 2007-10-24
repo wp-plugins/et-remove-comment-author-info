@@ -20,6 +20,6 @@ This plugin will insert a link that will allow the comment author to delete thei
 
 == Frequently Asked Questions ==
 
-= I cant see the delete link =
+= I cannot see the delete link =
 
 Only unregistered users will be provided with the delete link if they already had a previously posted comment.
