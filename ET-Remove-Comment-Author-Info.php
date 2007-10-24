@@ -2,7 +2,7 @@
 /*
 Plugin Name: ET Remove Comment Author Info
 Plugin URI: http://efficienttips.com/remove-comment-author-info/
-Description: This plugin will insert a link in the comment form that will allow the comment author to delete their personal info from the comment form which is stored in a cookie.
+Description: This plugin will insert a link that will allow the comment author to delete their personal info from the comment form which is stored in a cookie.
 Version: 1.0
 Author: Milan Kaneria
 Author URI: http://efficienttips.com/

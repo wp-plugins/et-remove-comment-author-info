@@ -10,7 +10,7 @@ This plugin allows commenter to remove their comment author details from the com
 
 == Description ==
 
-This plugin will insert a link in the comment form that will allow the comment author to delete their personal info from the comment form which is stored in a cookie. Only unregistered users will be provided with the delete link if they already had a previously posted comment.
+This plugin will insert a link that will allow the comment author to delete their personal info from the comment form which is stored in a cookie. Only unregistered users will be provided with the delete link if they already had a previously posted comment.
 
 == Installation ==
 
