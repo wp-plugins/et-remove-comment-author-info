@@ -12,7 +12,9 @@ This plugin allows commenter to remove their comment author details from the com
 
 This plugin will insert a link in the comment form that will allow the comment author to delete their personal info from it that is stored in a cookie. Only unregistered users will be provided with the delete link if they already had a previously posted comment.
 
-You can refer to [ET Remove Comment Author Info](http://efficienttips.com/remove-comment-author-info/ "ET Remove Comment Author Info") article for more information.
+**Support**
+
+For support queries, please leave your comments on the plugin page.
 
 == Installation ==
 
