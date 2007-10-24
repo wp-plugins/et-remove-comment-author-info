@@ -1,16 +1,16 @@
 === ET Remove Comment Author Info ===
 Contributors: milanmk
 Donate link: http://efficienttips.com/contact/
-Tags: comments, author, comment form
+Tags: author, comment, comments, comment form
 Requires at least: 1.5
 Tested up to: 2.3
 Stable tag: trunk
 
-A WordPress plugin to remove comment author details from the comment form.
+This plugin allows commenter to remove their comment author details from the comment form.
 
 == Description ==
 
-This plugin will insert a link in the comment form that will allow the comment author to delete their personal info from the comment form. Only unregistered users will be provided with the delete link if they already had a previously posted comment.
+This plugin will insert a link in the comment form that will allow the comment author to delete their personal info from the comment form which is stored in a cookie. Only unregistered users will be provided with the delete link if they already had a previously posted comment.
 
 == Installation ==
 
