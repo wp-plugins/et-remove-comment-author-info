@@ -1,7 +1,7 @@
 === ET Remove Comment Author Info ===
 Contributors: milanmk
 Donate link: http://efficienttips.com/contact/
-Tags: author, comment, commenter, comments
+Tags: author, comment, comments
 Requires at least: 1.5
 Tested up to: 2.3
 Stable tag: trunk
