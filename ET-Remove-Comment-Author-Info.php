@@ -27,4 +27,5 @@ function ET_RemoveCommentAuthorInfo()
 
 add_action('comment_form', 'ET_RemoveCommentAuthorInfo');
 
+
 ?>
