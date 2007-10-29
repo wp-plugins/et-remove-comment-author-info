@@ -3,7 +3,7 @@ Contributors: milanmk
 Donate link: http://efficienttips.com/contact/
 Tags: author, comment, comments
 Requires at least: 1.5
-Tested up to: 2.3
+Tested up to: 2.3.1
 Stable tag: trunk
 
 This plugin allows commenter to remove their comment author details from the comment form.
